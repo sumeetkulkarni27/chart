@@ -1,0 +1,130 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Biryani&display=swap');
+
+body{
+  font-family: 'Biryani', sans-serif;
+}
+
+.box{
+  border-radius: 12px;
+  max-width: 100%;
+  height: 296px;
+  font-size: 23px;
+
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 45%;
+}
+
+.first{
+  background-color: #9BBB80;
+  opacity: 70%;
+}
+
+.first:hover{
+  opacity: 100%;
+}
+
+.second{
+  background-color: #7D95C1;
+  opacity: 70%;
+}
+
+.second:hover{
+  opacity: 100%;
+}
+
+.third{
+  background-color: #D6C6B0;
+  opacity: 70%;
+}
+
+.third:hover{
+  opacity: 100%;
+}
+
+.fourth{
+  background-color: #71CAD1;
+  opacity: 70%;
+}
+
+.fourth:hover{
+  opacity: 100%;
+}
+
+.fifth{
+  background-color: #F07676;
+  opacity: 70%;
+}
+
+.fifth:hover{
+  opacity: 100%;
+}
+
+.sixth{
+  background-color: #CFBFE5;
+  opacity: 80%;
+}
+
+.sixth:hover{
+  opacity: 100%;
+}
+
+.seventh{
+  background-color: #FAD582;
+  opacity: 80%;
+}
+
+.seventh:hover{
+  opacity: 100%;
+}
+
+.eighth{
+  background-color: #71C4A2;
+  opacity: 70%;
+}
+
+.eighth:hover{
+  opacity: 100%;
+}
+
+
+/* Linked page CSS */
+
+.rec{
+  border-radius: 12px;
+  max-width: 100%;
+  width: 360px;
+  height: 85px;
+  background-color: #F7F7F7;
+
+}
+
+.rec:hover{
+  background-color: #E2E2E2;
+
+}
+
+.rec img{
+  max-width: 100%;
+  height: 40px;
+  width: 40px;
+
+}
+
+.textclass{
+  color: #707070;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
